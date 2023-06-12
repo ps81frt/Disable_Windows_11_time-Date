@@ -5,7 +5,8 @@
 
 # Detail du code executer
 
-Param
+
+    Param
     (
         [switch] $reset
     )
